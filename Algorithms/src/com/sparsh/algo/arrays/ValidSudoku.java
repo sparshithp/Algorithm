@@ -1,5 +1,11 @@
 package com.sparsh.algo.arrays;
 
+/*
+ * Determine if a Sudoku is valid, according to: Sudoku Puzzles - The Rules.
+ * The Sudoku board could be partially filled, where empty cells are filled with the character '.'.
+ * It does not mean it should be solvable.
+ */
+
 import java.util.*;
 
 public class ValidSudoku {
